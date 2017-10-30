@@ -1,0 +1,2 @@
+# GoMail
+Simplified e-mailing
